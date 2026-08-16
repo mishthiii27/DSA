@@ -15,7 +15,6 @@ public class Recursion1 {
 
 
     //Ques 2 , MAx element in an array
-
     static int maxElement(int[] arr, int i, int maxii ){
         //base case
         if(i >= arr.length ){
