@@ -1,14 +1,15 @@
 public class ArrayBasics {
     public static void main(String[] args) {
 
-        // Ques 1   is to sum all the elements of the array
-//        int[] myarr = {10, 20, 30, 40};
-//        int n = myarr.length;
-//        int sum = 0;
-//        for (int index = 0; index <= n - 1; index++) {
-//            sum += myarr[index];
-//        }
-//        System.out.println(sum);
+
+        //Ques 1   is to sum all the elements of the array
+        int[] myarr = {10, 20, 30, 40};
+        int n = myarr.length;
+        int sum = 0;
+        for (int index = 0; index <= n - 1; index++) {
+            sum += myarr[index];
+        }
+        System.out.println(sum);
 
         //   Ques 2 multiplu each element of array
 //        int[] myarr2 = {1, 2, 3, 4};
@@ -46,6 +47,6 @@ public class ArrayBasics {
 //            }
 //        }
 //        System.out.println(minvalue);
-    }
-    }
 
+    }
+}
