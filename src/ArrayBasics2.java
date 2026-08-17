@@ -72,26 +72,7 @@ public class ArrayBasics2 {
 //        System.out.println(result);
 
 
-    static int firstUnsortedElement(int[] arr) {
 
-        for (int i = 1; i < arr.length; i++) {
-
-            if (arr[i] < arr[i - 1]) {
-                return arr[i];
-            }
-        }
-
-        return -1;   // array is already sorted
-    }
-
-    public static void main(String[] args) {
-
-        int[] arr = {10, 20, 30, 33, 31};
-
-        int result = firstUnsortedElement(arr);
-
-        System.out.println(result);
-    }
 
 
 
