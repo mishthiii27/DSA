@@ -1,3 +1,5 @@
+package Arrays.TwoPointers;
+
 public class Array_02 {
 
     //Ques Sort array of 0s and 1s , such that 0s comes first and then the 1's

@@ -1,3 +1,5 @@
+package Recursion;
+
 public class Recursion3 {
 
    // Ques: count elements in an array

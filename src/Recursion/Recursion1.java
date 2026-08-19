@@ -1,3 +1,5 @@
+package Recursion;
+
 public class Recursion1 {
 
     //Ques1 - Traversing Array using Recursion

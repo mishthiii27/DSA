@@ -1,3 +1,5 @@
+package Arrays.basics;
+
 public class ArrayBasics2 {
 
 

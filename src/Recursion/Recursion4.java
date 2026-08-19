@@ -1,3 +1,5 @@
+package Recursion;
+
 public class Recursion4 {
 
     //Ques: Print the individual digit of a number givem
