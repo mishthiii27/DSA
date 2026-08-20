@@ -1,9 +1,7 @@
 package Sorting;
 
 public class BubbleSort {
-
-
-        public static void main(String[] args) {
+    public static void main(String[] args) {
             int[] arr = {64, 34, 25, 12, 22, 11, 90};
             int n = arr.length;
 
