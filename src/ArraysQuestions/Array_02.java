@@ -1,4 +1,4 @@
-package Arrays.TwoPointers;
+package ArraysQuestions;
 
 public class Array_02 {
 
